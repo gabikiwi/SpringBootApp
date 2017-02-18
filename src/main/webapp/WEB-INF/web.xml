@@ -5,7 +5,7 @@
 
   <servlet>
     <servlet-name>CXF</servlet-name>
-    <display-name>CXF</display-name>
+   
     <servlet-class>org.apache.cxf.jaxrs.servlet.CXFNonSpringJaxrsServlet</servlet-class>
     <init-param>
        <param-name>jaxrs.serviceClasses</param-name>
